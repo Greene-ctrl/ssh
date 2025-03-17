@@ -1,0 +1,2 @@
+# ssh
+cursor - ssh
